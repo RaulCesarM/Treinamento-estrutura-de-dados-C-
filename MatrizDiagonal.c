@@ -24,11 +24,9 @@ int main(){
 	
 
 	for (l=0; l<tam; l++)
-	{
-		
+	{	
 		for (c=0; c<tam; c++)
-		{
-				
+		{			
 			
 			if (c==l) /* serve para comparar se os valores de linha e coluna são os mesmos */
 			{
