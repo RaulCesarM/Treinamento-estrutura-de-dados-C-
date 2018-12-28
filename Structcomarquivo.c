@@ -6,15 +6,15 @@
  
 int main()
 {
-	struct estudante 
+	struct estudante  /* inicio da Struct */
 	{
 		char nome[50];
 		float nota;
 		
 		
-	};
-	FILE *fp;
-	struct estudante estudante [50];
+	}; /* final da Struct */
+	FILE *fp; /*criação do ponteiro para arquivo */
+	struct estudante estudante [50];    /* chamada da Struct */
 	int i, quant;
 	char arquivo[50];
 	char txt [50]=".txt";
@@ -28,7 +28,9 @@ int main()
 		system("cls");
 		printf("digite o nome\n",i+1);
 		fflush ( stdin );
-		gets(estudante[i].nome);
+		gets(estudante[i].nome); /* a inserção de dados em uma Struct funciona como 
+		como em um vetor porém seguida de(.) da variavel desejada que foi declarada dentro dela mesmo */
+		/* usa gets para  Strings e Scanf para nuemros */
 
 		printf("digite a nota\n");
 		fflush ( stdin );
@@ -38,9 +40,9 @@ int main()
 	fflush ( stdin );
 	gets(arquivo);
 
-	strncat(arquivo,txt, 4);
+	strncat(arquivo,txt, 4);/* concatenação de duas variaveis usa-se strncat */
 
-    fp = fopen (arquivo, "w");
+    fp = fopen (arquivo, "w"); /* chamada da abertura do arquivo  para escrita W */
     if (fp == NULL) {
        printf ("Houve um erro ao abrir o arquivo.\n");
        return 1;
@@ -48,7 +50,8 @@ int main()
     for (i = 0; i <quant; i++)
     {
     	fprintf(fp, "aluno: %s, nota: %.1f;\n",estudante[i].nome,estudante[i].nota);
-    }
+    }  
+	/* usa-se fprint para a impressão em arquivos o F que antecede provem de "File"*/
     		
 	system("cls");
 	printf ("Arquivo %s criado com sucesso.\n",arquivo);
