@@ -29,7 +29,7 @@ int main(){
 				{
 					printf("%d \t",matriz[l][c] );							
 				}
-				c=l;										/* reinicia o estado natural da coluna */			
+				c=l;                                         /* reinicia o estado natural da coluna */			
 			}
 			printf("\t");
 		}
