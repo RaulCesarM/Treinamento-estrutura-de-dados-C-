@@ -1,15 +1,11 @@
 
 /* AUTOR : RAUL CESAR MULERSCHAT */
-
-
-
-
-
+/* 29/12/2018                    */
+/* MATRIZ DIAGONAL COM IMPRESSÃO TABULADA */
 #include <stdio.h>
 #include <math.h>
 #include <conio.h>
-#define tam 2                                  /* definir as varivais no inicio facilitam a manipulação */
-
+#define tam 2                                 /* definir as varivais no inicio facilitam a manipulação */
 
 int main(){
 	int matriz[tam][tam];							   /* tamnho da matriz é definido pela variavel tam */
@@ -35,18 +31,10 @@ int main(){
 							
 				}
 				c=l;											  /* reinicia o estado natural da coluna */			
-				
 			}
 			printf("\t");															  /* tabula a matriz */
 		}
 		printf("\n");
 	}
-
-
-
-
-
-
-
 	return 0;
 }
