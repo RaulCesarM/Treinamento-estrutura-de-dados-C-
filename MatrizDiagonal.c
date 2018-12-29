@@ -23,9 +23,9 @@ int main(){
 		for (c=0; c<tam; c++)
 		{			
 			
-			if (c==l)			/* serve para comparar se os valores de linha e coluna são os mesmos */
+			if (c==l)           /* serve para comparar se os valores de linha e coluna são os mesmos */
 			{							
-				for (c=l; c<tam; c++)				/*começa com ovalor da linha e percorre a coluna */
+				for (c=l; c<tam; c++)               /*começa com ovalor da linha e percorre a coluna */
 				{
 					printf("%d \t",matriz[l][c] );							
 				}
