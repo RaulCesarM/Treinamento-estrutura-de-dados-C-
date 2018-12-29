@@ -27,12 +27,12 @@ int main(){
 			{							
 				for (c=l; c<tam; c++)				/*começa com ovalor da linha e percorre a coluna */
 				{
-					printf("%d \t",matriz[l][c] );								/* imprimi a matriz  */
+					printf("%d \t",matriz[l][c] );						/* imprimi a matriz  */
 							
 				}
 				c=l;										 /* reinicia o estado natural da coluna */			
 			}
-			printf("\t");														/* tabula a matriz */
+			printf("\t");								/* tabula a matriz */
 		}
 		printf("\n");
 	}
