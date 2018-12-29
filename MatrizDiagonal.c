@@ -32,7 +32,7 @@ int main(){
 				}
 				c=l;											  /* reinicia o estado natural da coluna */			
 			}
-			printf("\t");															  /* tabula a matriz */
+			printf("\t");															 /* tabula a matriz */
 		}
 		printf("\n");
 	}
