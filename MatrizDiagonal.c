@@ -1,7 +1,7 @@
 
-/* AUTOR : RAUL CESAR MULERSCHAT			 */
-/* 29/12/2018						         */
-/* MATRIZ DIAGONAL COM IMPRESSÃO TABULADA	 */
+/* AUTOR : RAUL CESAR MULERSCHAT.............*/
+/* 29/12/2018................................*/
+/* MATRIZ DIAGONAL COM IMPRESSÃO TABULADA....*/
 #include <stdio.h>
 #include <math.h>
 #include <conio.h>
@@ -30,9 +30,9 @@ int main(){
 					printf("%d \t",matriz[l][c] );									/* imprimi a matriz  */
 							
 				}
-				c=l;											  /* reinicia o estado natural da coluna */			
+				c=l;								 /* reinicia o estado natural da coluna */			
 			}
-			printf("\t");															 /* tabula a matriz */
+			printf("\t");											/* tabula a matriz */
 		}
 		printf("\n");
 	}
