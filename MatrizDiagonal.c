@@ -1,7 +1,7 @@
 
-/* AUTOR : RAUL CESAR MULERSCHAT */
-/* 29/12/2018                    */
-/* MATRIZ DIAGONAL COM IMPRESSÃO TABULADA */
+/* AUTOR : RAUL CESAR MULERSCHAT			 */
+/* 29/12/2018						         */
+/* MATRIZ DIAGONAL COM IMPRESSÃO TABULADA	 */
 #include <stdio.h>
 #include <math.h>
 #include <conio.h>
