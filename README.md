@@ -26,6 +26,7 @@ Oque voçê encontrara no repositorio Programando em C.
 *Filas.
     Encadeadas.
     Duplamente encadeadas.
+
 *Bibliotecas.
             <complex.h>
             <float.h>
