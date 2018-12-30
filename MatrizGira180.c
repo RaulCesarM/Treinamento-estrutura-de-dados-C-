@@ -18,7 +18,7 @@ int main(){
  		{
  			printf("Linha %d ; coluna %d :\n",l, c );
  			
- 			matriz[l][c] = m[k];                                      /* aliemtação a cada ciclo de loop */
+ 			matriz[l][c] = m[k];                                      /* alimetação a cada ciclo de loop */
  			k++;                                                             /* incremento da variavel k */
  		}
  	}
