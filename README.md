@@ -7,49 +7,38 @@ Ao Longo do processo vou estar comentando linha a linha para que serve cada sent
 Oque voçê encontrara no repositorio Programando em C.
 
 *Algoritmos simples.
-*Passo a passo comentado
-*estruturas de repetição
+*Passo a passo comentado.
+*estruturas de repetição.
+            For.
+            While.
+            Do While.
 
-            For
-
-            While
-
-            Do While
-
-*estruturas de decisão
-
-            if
-
-            else if
-
-            switch case
+*estruturas de decisão.
+            if.
+            else if.
+            switch case.
 
 *structs.
-
 *unions.
-
 *Funções nativas.
-
 *Arquivos.
-
 *Pilhas.
-
-*Filas 
-            encadeadas
-            duplamente encadeadas
-*Bibliotecas 
-            complex.h
-            float.h
-            locale.h
-            math.h
-            setjmp.h
-            signal.h
-            stdbool.h
-            stdint.h
-            stdio.h
-            stdlib.h
-            string.h
-            tgmath.h
-            time.h
+*Filas.
+    Encadeadas.
+    Duplamente encadeadas.
+*Bibliotecas.
+            <complex.h>
+            <float.h>
+            <locale.h>
+            <math.h>
+            <setjmp.h>
+            <signal.h>
+            <stdbool.h>
+            <stdint.h>
+            <stdio.h>
+            <stdlib.h>
+            <string.h>
+            <tgmath.h>
+            <time.h>
 
 "CONHECIMENTO NUNCA É DEMAIS "
