@@ -1,8 +1,7 @@
-/* AUTOR: RAUL CESAR MULERSCHAT             */
-/*											*/
-/* RECEBE UMA PALAVRA,						*/
-/* DEVOLVE A PALAVRA DE TRAZ PARA FRENTE,	*/
-/* SUBSTITUI AS VOGAIS POR @ 				*/
+/* AUTOR: RAUL CESAR MULERSCHAT ..........*/
+/* RECEBE UMA PALAVRA.....................*/
+/* DEVOLVE A PALAVRA DE TRAZ PARA FRENTE..*/
+/* SUBSTITUI AS VOGAIS POR @..............*/
 
 
 # include <stdio.h>                                            /* biblioteca para entrada e saida padrão */
