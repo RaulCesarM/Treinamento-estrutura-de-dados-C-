@@ -9,37 +9,14 @@ Oque voçê encontrara no repositorio Programando em C.
 *Algoritmos simples.
 *Passo a passo comentado.
 *estruturas de repetição.
-            For.
-            While.
-            Do While.
-
 *estruturas de decisão.
-            if.
-            else if.
-            switch case.
-
 *structs.
 *unions.
 *Funções nativas.
 *Arquivos.
 *Pilhas.
 *Filas.
-    Encadeadas.
-    Duplamente encadeadas.
-
 *Bibliotecas.
-            <complex.h>
-            <float.h>
-            <locale.h>
-            <math.h>
-            <setjmp.h>
-            <signal.h>
-            <stdbool.h>
-            <stdint.h>
-            <stdio.h>
-            <stdlib.h>
-            <string.h>
-            <tgmath.h>
-            <time.h>
+            
 
 "CONHECIMENTO NUNCA É DEMAIS "
