@@ -18,12 +18,12 @@ int main(){
  		{
  			printf("Linha %d ; coluna %d :\n",l, c );
  			
- 			matriz[l][c] = m[k];                                      /* alimetação a cada ciclo de loop */
- 			k++;                                                             /* incremento da variavel k */
+ 			matriz[l][c] = m[k];                            /* alimetação a cada ciclo de loop */
+ 			k++;                                                /* incremento da variavel k */
  		}
  	}
  	printf("********** matriz original ***********\n");
- 	for (l=0; l<tam; l++)                                                                 /* loop normal */
+ 	for (l=0; l<tam; l++)                                                           /* loop normal */
  	{
  		for (c=0; c<tam; c++)
  		{
