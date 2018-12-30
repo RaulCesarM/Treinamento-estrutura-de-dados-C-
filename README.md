@@ -17,6 +17,6 @@ Oque voçê encontrara no repositorio Programando em C.
 *Pilhas.
 *Filas.
 *Bibliotecas.
-            
+
 
 "CONHECIMENTO NUNCA É DEMAIS "
