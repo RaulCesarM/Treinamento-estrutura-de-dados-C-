@@ -4,7 +4,8 @@
 /* MATRIZ DIAGONAL COM IMPRESSÃO TABULADA....*/
 #include <stdio.h>
 #include <math.h>
-#include <conio.h>
+#include <stdlib.h>
+#include <windows.h>
 #define tam 2 								/* definir as varivais no inicio facilitam a manipulação */
 
 int main(){
@@ -18,6 +19,8 @@ int main(){
 	 		scanf("%d",&matriz[l][c]);					/* scaneia a matriz absorvendo as informações */
 	 	}
 	 }
+	system("cls");
+
 	for (l=0; l<tam; l++)
 	{	
 		for (c=0; c<tam; c++)
