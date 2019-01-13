@@ -16,7 +16,7 @@ int main(){
 	 	for (c=0; c<tam; c++)
 	 	{
 	 		printf("digite da linha%d e coluna %d :\n\n ",l+1, c+1);
-	 		scanf("%d",&matriz[l][c]);					/* scaneia a matriz absorvendo as informações */
+	 		scanf("%d",&matriz[l][c]);			 		/* scaneia a matriz absorvendo as informações */
 	 	}
 	 }
 	system("cls");
