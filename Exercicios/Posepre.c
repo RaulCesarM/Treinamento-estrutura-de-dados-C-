@@ -1,5 +1,10 @@
-/* Figura 3.13: fig03_13.c
-Pré-incrementando e pós-incrementando */
+/**
+ * @author Raul Cesar Mulerschat
+ * @email raulzito737@gmail.com
+ * @create date 2019-01-15 17:24:53
+ * @modify date 2019-01-15 17:24:53
+ * @desc [Pré-incrementando e pós-incrementando] */
+
 #include <stdio.h>
 
 /* função main inicia a execução do programa */
@@ -9,7 +14,7 @@ int d;
 
  /* demonstra pós-incremento */
     c = 5;                                                   
-    d=10;   
+    d = 10;   
     printf("POS INCREMENTO");                                                 
     printf( "%d\n", c ); 
     printf( "%d\n", c++ ); 
