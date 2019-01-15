@@ -21,6 +21,6 @@ int main(){
 
     printf("digite outra nota\n");
     scanf("%f",&nota);
-    nota >= 60 ? printf( "Aprovado\n" ) : printf( "Reprovado\n" );
+    nota >= 6.0 ? printf( "Aprovado\n" ) : printf( "Reprovado\n" );
     return 0;
 }
