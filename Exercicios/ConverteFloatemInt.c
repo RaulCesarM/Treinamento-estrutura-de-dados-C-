@@ -17,7 +17,7 @@ int main()
 	mf = (pr1+pr2)/2;
 	mt = ((mf-0.5)+0.001);
 	ma = (mf+0.001);
-    i1=(int)mt; /*converte float para inteiro*/
+    i1=(int)mt; /*converte float para inteiro poderia ser int para float  i1=(float)mt;*/
     i2=(int)ma;
 
 	printf(" media truncada %d \n", i1);
