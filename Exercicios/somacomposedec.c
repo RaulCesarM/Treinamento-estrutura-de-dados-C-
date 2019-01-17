@@ -3,7 +3,7 @@
  * @email raulzito737@gmail.com
  * @create date 2019-01-15 18:21:40
  * @modify date 2019-01-15 18:21:40
- * @desc [soma com increneto]
+ * @desc [soma com incremento]
  */
 #include<stdio.h>
 
