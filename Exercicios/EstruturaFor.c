@@ -23,13 +23,14 @@ int main(){
 
     for ( i = 7; i <= 77; i += 7 )// incremento com operador de 7 em7 
 
-    for ( i = 20; i >= 2; i -= 2 )// decremento com oprador de 2 me 2
+    for ( i = 20; i >= 2; i -= 2 )// decremento com oprador de 2 me 2    
 
     for ( número = 2; número <= 100; soma += número, número += 2 )// apresenta todos os numeros pares de 2 a 100
 
     for ( j = 2; j <= 17; j += 3 )//adquirindo sequencia pre definida de 3 em 3
 
     for ( j = 44; j >= 0; j -= 11 )// adquirindo sequencia pre definida de 11 em 11 começando em 44
+    
 
     return 0;
 }
