@@ -16,6 +16,12 @@ int main(){
         soma +=x;
         ++x;
     }
+    /* poderia ser assim 
+     while( ++x<=10 ){
+        soma +=x;
+        
+    }economizaria uma linha de comando
+    .................*/
 
     printf("%d", soma);
 
