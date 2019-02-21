@@ -25,7 +25,7 @@ Oque voçê encontrara no repositorio Programando em C.
 
 *Filas.
 
-*Bibliotecas.
+
 
 
 "CONHECIMENTO NUNCA É DEMAIS "
