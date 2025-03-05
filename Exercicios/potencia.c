@@ -1,14 +1,11 @@
 /**
- * @author Raul Cesar Mulerschat
- * @email raulzito737@gmail.com
+ * @author Raul Cesar Mulerschat 
  * @create date 2019-01-15 17:53:46
  * @modify date 2019-01-15 17:53:46
  * @desc [potencia com incremento]
  */
 
-
 #include<stdio.h>
-
 int main(){
     int x,y,i,potencia;
     i=1;
@@ -21,9 +18,6 @@ int main(){
         potencia *=x;
         i++;
     }
-
     printf("%d", potencia);
-
-
     return 0;
 }
